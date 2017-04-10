@@ -1,3 +1,7 @@
-triple emphasys in***si***de word.
+triple emphasis in***si***de word.
 
-trible emphasys in ***seperate*** word.
+trible emphasis in ***seperate*** word.
+
+double emphasis in**si**de word.
+
+trible emphasis in **seperate** word.
